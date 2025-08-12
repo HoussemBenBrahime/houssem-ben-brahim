@@ -39,7 +39,7 @@ Some highlights:
 
 
 ## 📈 GitHub Stats
-![Houssem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=houssem-ben-ibrahim&show_icons=true&theme=radical)
+![Houssem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=houssem-ben-brahim&show_icons=true&theme=radical)
 
 ---
 
